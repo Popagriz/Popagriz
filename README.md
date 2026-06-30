@@ -1,16 +1,13 @@
-## Hi there 👋
+# Привет! Я Popagriz 👋
 
-<!--
-**Popagriz/Popagriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Добро пожаловать в мой профиль на GitHub! 
 
-Here are some ideas to get you started:
+### 🛠️ Чем я занимаюсь:
+* Изучаю программирование и современные технологии
+* Создаю свои первые проекты и выкладываю их сюда
+* Открыт для предложений, фриланса и интересных задач
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Как сойтись со мной / Связь:
+* **Email:** popagriz67@gmil.com
+
+_Буду рад сотрудничеству и новым заказам!_
